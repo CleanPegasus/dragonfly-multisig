@@ -1,0 +1,25 @@
+/node_modules
+.DS_Store
+circuits/ecdsa-circuits/pot20_final.ptau
+circuits/ecdsa-circuits/pot21_final.ptau
+
+/build
+/ptau
+/cache
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
