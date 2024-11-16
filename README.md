@@ -1,4 +1,4 @@
-# ZK-Multisig Wallet
+# Dragonfly-Multisig Wallet
 
 A zero-knowledge multi-signature wallet that preserves owner privacy while maintaining the security guarantees of traditional multisig wallets. The wallet uses zk-SNARKs (Groth16) to prove ownership without revealing the actual owners' addresses.
 
@@ -148,8 +148,8 @@ The test suite includes:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd zk-multisig
+git clone https://github.com/CleanPegasus/dragonfly-multisig
+cd dragonfly-multisig
 ```
 
 2. Install dependencies:
